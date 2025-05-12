@@ -86,18 +86,14 @@ The dataset includes historical and active project data with the following field
 
 ## 🚀 How to Use
 
-1. Clone this repository
-2. Open the `.pbix` file in the `dashboard/` folder using Power BI Desktop
+1. Clone this repository.
+2. Open the `.pbix` file in the `dashboard/` folder using Power BI Desktop.
 3. Interact with slicers for:
    - 📅 Year
    - 📍 Region
    - 🏢 Department
    - 📊 Project Status
-4. Explore KPIs, satisfaction metrics, trends, and strategic client insights
-5. Export visuals or customize the dashboard for internal use
+4. Explore KPIs, satisfaction metrics, trends, and strategic client insights.
+5. Export visuals or customize the dashboard for internal use.
 
----
 
-## 👩‍💻 Created by
-
-**marijatech**  
